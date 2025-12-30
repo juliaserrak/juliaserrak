@@ -5,8 +5,7 @@
 </div>
 
 <!-- Banner abaixo do bem vindo -->
-<img align="center" alt="" src="./fotos/banner julia github.gif">
-
+<img align="center" alt="Banner Julia" src="./images/banner julia github.gif">
 #
 
 <p align="center">Sou estudante de Ciência da Computação no Centro Universitário Dom Helder Câmara, em Belo Horizonte – MG. Estou em busca de oportunidades para crescer na área de tecnologia, aprender na prática e evoluir constantemente. Tenho muita paixão por aprender e atualmente estou me dedicando aos estudos para me tornar desenvolvedor full stack, sempre tentando transformar o que aprendo em soluções reais.
