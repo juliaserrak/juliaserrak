@@ -1,14 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF8FB7&height=120&section=header"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4988C4&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E83C91&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <!-- Banner abaixo do bem vindo -->
-<img align="center" alt="Banner Julia" src="./fotos/banner julia github.gif">
+<img align="center" alt="Banner Julia" src="https://github.com/user-attachments/assets/8f960ea3-69ef-4bc1-8083-9ab559b2968e">
 
+#
 
-<p align="center">Sou estudante de Ciência da Computação no Centro Universitário Dom Helder Câmara, em Belo Horizonte – MG. Estou em busca de oportunidades para crescer na área de tecnologia, aprender na prática e evoluir constantemente. Tenho muita paixão por aprender e atualmente estou me dedicando aos estudos para me tornar desenvolvedor full stack, sempre tentando transformar o que aprendo em soluções reais.
+<p align="center">Sou estudante de Ciência da Computação no Centro Universitário Dom Helder Câmara – MG. Estou em busca de oportunidades para crescer na área de tecnologia, aprender na prática e evoluir constantemente. Tenho muita paixão por aprender e atualmente estou me dedicando aos estudos para me tornar desenvolvedor full stack, sempre tentando transformar o que aprendo em soluções reais.
   
 #
 
@@ -29,15 +32,11 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
 </div>
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF8FB7&height=120&section=footer"/>
