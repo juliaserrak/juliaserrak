@@ -4,7 +4,8 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<!-- Banner abaixo do bem vindo -->
+<img align="center" alt="" src="./fotos/banner julia github.gif">
 
 #
 
@@ -12,7 +13,8 @@
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<!-- GIF de contate-me alinhado à direita -->
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/f4e19e03-e8fd-4a35-a8b4-7406c4b2a850">
 
 <h3 align="left">Connect with me!</h3>
 
